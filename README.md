@@ -1,6 +1,6 @@
 ### IMC - Flutter
 
-![IMC](https://imgur.com/xny2AR2)
+![IMC](https://i.imgur.com/xny2AR2.png)
 
 ```
 flutter create imc
